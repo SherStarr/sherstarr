@@ -1,16 +1,16 @@
-## Hi there 👋
 
-<!--
-**SherStarr/sherstarr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### Hi, I'm Sherwin! 🌊
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📍 I am based in Jersey <br/>
+🎓 Graduated with a Human-Computer Interaction degree & a minor in Data Analytics from NJIT <br/>
+🎨 Experience in UX/UI through degree coursework
+💻 Experience in IT from UPS Technology Group <br/>
+📈 Experience in Business & Sales from working as an account manager in Veiled <br/>
+🔭 Currently building on Project VoroTrek a habit tracking app with analytics <br/>
+🌱 Currently learning and strengthening MySQL & Project Management <br/>
+⚡ Fun facts: I like skateboarding, photography, & hiking <br/><br/>
+
+Check out my website on Notion: https://sherstar.notion.site/Hello-there-I-am-Sherwin-0c1c3f923220475b8c9d5bd154fc9e30?source=copy_link  <br/><br/>  
+
+[![Sherwin's GitHub stats](https://github-readme-stats.vercel.app/api?username=SherStarr&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
