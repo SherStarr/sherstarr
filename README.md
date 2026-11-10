@@ -8,7 +8,7 @@
 🎨 **Design:** UX/UI experience through academic projects  
 💻 **Technology:** Two summer internships with UPS Technology Group  
 📈 **Business & Sales:** Former Account Manager at Veiled  
-🤝 **Social Impact:** Community service initiatives in Tanzania  
+🤝 **Social Impact:** Installed solar suitcases & community service initiatives in Tanzania & Zanzibar  
 📚 **Research:** Lead author of ACM-published research on age bias in LLMs
 
 ⚡ **Beyond Work:** Skateboarding, photography, hiking & scrapbooking  
