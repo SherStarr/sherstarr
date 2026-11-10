@@ -11,7 +11,7 @@
 🤝 **Social Impact:** Installing solar suitcases & community service initiatives in Tanzania  
 📚 **Research:** Lead author of ACM-published research on age bias in LLMs
 
-⚡ **Beyond Work:** Skateboarding, photography, hiking & scrapbooking<br>   
+⚡ **Beyond Work:** Skateboarding, photography, hiking & scrapbooking
 🌏 **Fun Fact:** I speak 4-5 languages 
 
 ### 💻 Tech Stack
